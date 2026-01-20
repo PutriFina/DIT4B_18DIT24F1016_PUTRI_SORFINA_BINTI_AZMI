@@ -1,4 +1,5 @@
 <?php
+/* profil pelajar */
 include "biodata.php";
 ?>
 <!DOCTYPE html>
